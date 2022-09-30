@@ -1,4 +1,4 @@
 install: 
 FILE="-Dfile=middle-1.1.aar" 
 mvn clean install -U
-mvn install:install-file $FILE -DgroupId=com.group.module -DartifactId=test -Dversion=1.0 -Dpackaging=aar -DpomFile=pom.xml
+mvn install:install-file $FILE -DgroupId=com.br.usemobile.project_poc -DartifactId=middle-1.1 -Dversion=1.1 -Dpackaging=aar -DpomFile=pom.xml
