@@ -5,6 +5,6 @@
              http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.br.usemobile.project_poc</groupId>
-   <artifactId>test</artifactId>
+   <artifactId>middle</artifactId>
    <version>1.2</version>
 </project>
